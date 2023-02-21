@@ -1,16 +1,13 @@
-# planets
+# Planets
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![my badge](https://img.shields.io/badge/Made%20with-Flutter-blue?style=for-the-badge&logo=flutter)  &nbsp;  &nbsp; ![my badge](https://img.shields.io/github/last-commit/Krishak15/Planets/master?style=for-the-badge) 
+&nbsp;
+## "Explore solar system with Planets app with beautiful UI & Animation"
+&nbsp;
+https://user-images.githubusercontent.com/34805219/220256095-813b38ca-8fe0-4868-aa72-7712370fa587.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
