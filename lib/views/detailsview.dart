@@ -52,7 +52,7 @@ class _DetailsViewState extends State<DetailsView> {
                   const SizedBox(
                     height: 30,
                   ),
-                  Container(
+                  SizedBox(
                     height: 140,
                     width: MediaQuery.of(context).size.width * 0.95,
                     child: SingleChildScrollView(
@@ -94,7 +94,7 @@ class _DetailsViewState extends State<DetailsView> {
                   const SizedBox(
                     height: 15,
                   ),
-                  Container(
+                  SizedBox(
                     height: 250,
                     child: ListView.builder(
                       physics: const BouncingScrollPhysics(),
