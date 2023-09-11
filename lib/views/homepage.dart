@@ -31,8 +31,8 @@ class _HomePageState extends State<HomePage> {
               padding: const EdgeInsets.all(32),
               child: Column(
                 children: <Widget>[
-                  Row(
-                    children: const [
+                  const Row(
+                    children: [
                       Text(
                         'Explore',
                         style: TextStyle(
@@ -72,7 +72,7 @@ class _HomePageState extends State<HomePage> {
                 ],
               ),
             ),
-            Container(
+            SizedBox(
               height: 500,
               child: Padding(
                 padding: const EdgeInsets.only(left: 32.0),
