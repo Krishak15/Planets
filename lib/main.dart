@@ -15,13 +15,14 @@ class MyApp extends StatelessWidget {
     SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
       statusBarColor: Colors.transparent,
       //color set to transperent or set your own color
-      statusBarIconBrightness: Brightness.dark,
+      statusBarIconBrightness: Brightness.light,
       //set brightness for icons, like dark background light icons
     ));
+
     return MaterialApp(
         debugShowCheckedModeBanner: false,
         debugShowMaterialGrid: false,
-        title: 'Flutter Demo',
+        title: 'Panets: Explore the Solar System',
         theme: ThemeData(
           primarySwatch: Colors.purple,
         ),
